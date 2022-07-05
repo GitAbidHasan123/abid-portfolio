@@ -1,5 +1,6 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: auto;
 }
 h1{
     font-size: 50px;
@@ -9,7 +10,7 @@ h1{
 }
 .flexible-container{
     display: flex;
-    margin: 100px;
+    margin:;
 }
 .half-width{
     padding-left: 5%;
